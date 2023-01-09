@@ -22,7 +22,8 @@ print(c)
 
 
 ## Output:
-![OUTPUT](./images/system of linera.png)
+
+![system of linera](https://user-images.githubusercontent.com/118679883/211297026-d0e18b3b-f788-4597-8401-b2950ebfc89c.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
