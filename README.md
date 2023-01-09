@@ -22,7 +22,7 @@ print(c)
 
 
 ## Output:
-![OUTPUT](./images/system of linear.png)
+![OUTPUT](./images/system of linera.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
