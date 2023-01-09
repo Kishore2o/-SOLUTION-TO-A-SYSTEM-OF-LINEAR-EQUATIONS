@@ -16,8 +16,11 @@ End the program
 ## Program:
 import numpy as np
 A = np.array([[1,-3],[3,1]])
+
 B=np.array)([0,10])
+
 c=np.linalg.solve(A,B)
+
 print(c)
 
 
